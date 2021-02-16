@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "tech.burkinabe.taskmgmt",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "taskmgmt",
+    "packageName": "tech.burkinabe.taskmgmt",
+    "packageFolder": "tech/burkinabe/taskmgmt",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDk4YzQwYWEyMGRhZmNhYmM3MWRlYzU2MmQzMTc3ODdkOGI4MzVmMzAzMzcyMzZkMTgxYmJlYTA0NjQxMGI3ZTg4ZTBmYmNmYWQxMmRiOWNiNzFmM2Y4NDc1OTI4MGY1NzMzZGE0ZTAwMjIzNTBlODdmZmJjNTJkNDUyMGQ1NDU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1613471711878,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "en"],
+    "blueprints": []
+  }
+}
